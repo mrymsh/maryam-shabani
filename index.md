@@ -1,37 +1,46 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/mrymsh/maryam-shabani/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Introduction
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+---
 
-### Markdown
++ Date of birth
+  - 2000-5-10
++ Single
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
++ Phone
+     - 09302398376
+ + Email
+      - shabanymrym79@gmail.com
+ + Iran_Tehran
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+---
 
-- Bulleted
-- List
+Familiar with c, c ++, css, html languages
+Learning java script
+ 
+###education
 
-1. Numbered
-2. List
+---
 
-**Bold** and _Italic_ and `Code` text
+ + Degree: Bachelor
+   - Computer engineering major
+   Orientation: Software
+   - Input: 1397
+   University: Payame Noor, North Tehran
+  
+  
+###languages
+    
+---
+    
++ Persian  
+- Native
++ English
+ - Normal
+ 
+ 
+---
+ 
+ ### Resume evaluation
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mrymsh/maryam-shabani/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
