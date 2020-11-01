@@ -19,7 +19,7 @@ Introduction
 Familiar with c, c ++, css, html languages
 Learning java script
  
-###education
+### education
 
 ---
 
@@ -30,7 +30,7 @@ Learning java script
    University: Payame Noor, North Tehran
   
   
-###languages
+### languages
     
 ---
     
